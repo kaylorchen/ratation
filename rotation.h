@@ -2,8 +2,8 @@
 // Created by kaylor on 8/14/21.
 //
 
-#ifndef ROTATION_RATATION_H
-#define ROTATION_RATATION_H
+#ifndef ROTATION_ROTATION_H
+#define ROTATION_ROTATION_H
 
 #include "math.h"
 
@@ -25,4 +25,4 @@ matrix33 rotationMatrix(vector3D *v, double theta);
 
 vector3D rotationResult(matrix33 *M, vector3D *v);
 
-#endif //ROTATION_RATATION_H
+#endif //ROTATION_ROTATION_H

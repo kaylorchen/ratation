@@ -1,7 +1,7 @@
 //
 // Created by kaylor on 8/14/21.
 //
-#include "ratation.h"
+#include "rotation.h"
 
 double norm(vector3D *v) {
     return sqrt(v->x * v->x + v->y * v->y + v->z * v->z);

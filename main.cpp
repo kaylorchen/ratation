@@ -1,6 +1,6 @@
 #include <iostream>
 #include "stdio.h"
-#include "ratation.h"
+#include "rotation.h"
 
 int main() {
     vector3D origin = {1 ,1 ,1};

@@ -4,4 +4,4 @@ project(rotation C CXX)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_C_STANDARD 11)
 
-add_executable(rotation main.cpp ratation.c)
+add_executable(rotation main.cpp rotation.c)
